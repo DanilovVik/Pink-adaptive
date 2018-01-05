@@ -1,1 +1,1 @@
-# Pink-adaptive
+Проект "Pink". Продвинутый HTML и CSS
